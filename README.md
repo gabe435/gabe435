@@ -1,24 +1,12 @@
 <div align="center">
   <h1>Gabriel Hatano Rocha</h1>
-  <p><b>Estudante de DSM na FATEC São José dos Campos</b></p>
+  <p><b>Estudante de Desenvolvimento de Software Multiplataforma na FATEC SJC</b></p>
 
-  <!-- Animação em CSS Puro (Sem falhas no GitHub) -->
-  <div style="font-family: monospace; font-size: 1.1rem; color: #38BDF8; margin: 15px 0; height: 30px;">
-    <span>&gt; </span><span class="typewriter">Desenvolvedor Python & Web</span>
-  </div>
+  <!-- Selo animado moderno em SVG -->
+  <p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35&height=65&section=header&text=Python%20|%20Linux%20|%20Full%20Stack%20Developer&fontSize=18&fontColor=38BDF8&animation=fadeIn" width="100%" />
+  </p>
 </div>
-
-<style>
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-.typewriter {
-  border-right: 2px solid #38BDF8;
-  white-space: nowrap;
-  animation: blink 0.75s step-end infinite;
-}
-</style>
 
 ---
 
