@@ -37,6 +37,4 @@
 
 ### Conexões
 
-* **GitHub Principal:** [github.com/gabe435](https://github.com/gabe435)
-* **GitHub Secundário:** [github.com/philia435](https://github.com/philia435)
 * **LinkedIn:** [linkedin.com/in/gabrielhatano](https://www.linkedin.com/in/gabrielhatano/)
