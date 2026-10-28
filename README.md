@@ -7,13 +7,6 @@
   </p>
 </div>
 
-<!-- BOTÃO DO LINKEDIN COM LOGO -->
-  <p>
-    <a href="https://www.linkedin.com/in/gabrielhatano/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-  </p>
-</div>
 ---
 
 ### Stack Tecnológica
@@ -44,4 +37,10 @@
 
 ### Conexões
 
-* **LinkedIn:** [linkedin.com/in/gabrielhatano](https://www.linkedin.com/in/gabrielhatano/)
+<!-- BOTÃO DO LINKEDIN COM LOGO -->
+  <p>
+    <a href="https://www.linkedin.com/in/gabrielhatano/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+  </p>
+</div>
