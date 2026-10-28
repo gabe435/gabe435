@@ -4,7 +4,7 @@
 
   <!-- Selo animado moderno em SVG -->
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35&height=65&section=header&text=Python%20|%20Linux%20|%20Developer&fontSize=18&fontColor=38BDF8&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,12,25,35&height=65&section=header&text=Python%20|%20Linux%20|%20Developer&fontSize=18&fontColor=38BDF8&animation=fadeIn" width="100%" />
   </p>
 </div>
 
