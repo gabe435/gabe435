@@ -2,12 +2,18 @@
   <h1>Gabriel Hatano Rocha</h1>
   <p><b>Estudante de Desenvolvimento de Software Multiplataforma na FATEC SJC</b></p>
 
-  <!-- Selo animado moderno em SVG -->
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,12,25,35&height=65&section=header&text=Python%20|%20Linux%20|%20Developer&fontSize=18&fontColor=38BDF8&animation=fadeIn" width="100%" />
   </p>
 </div>
 
+<!-- BOTÃO DO LINKEDIN COM LOGO -->
+  <p>
+    <a href="https://www.linkedin.com/in/gabrielhatano/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+  </p>
+</div>
 ---
 
 ### Stack Tecnológica
