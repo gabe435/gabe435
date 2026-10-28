@@ -1,12 +1,24 @@
 <div align="center">
   <h1>Gabriel Hatano Rocha</h1>
-  <p><b>Estudante de DSM na FATEC SJC | Desenvolvedor Python & Web</b></p>
+  <p><b>Estudante de DSM na FATEC São José dos Campos</b></p>
 
-  <!-- Animação de digitação limpa e funcional -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Python+%26+Análise+de+Dados;Linux+%26+Automação+Bash;Desenvolvimento+Web+Full+Stack" alt="Typing Animation" />
-  </p>
+  <!-- Animação em CSS Puro (Sem falhas no GitHub) -->
+  <div style="font-family: monospace; font-size: 1.1rem; color: #38BDF8; margin: 15px 0; height: 30px;">
+    <span>&gt; </span><span class="typewriter">Desenvolvedor Python & Web</span>
+  </div>
 </div>
+
+<style>
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.typewriter {
+  border-right: 2px solid #38BDF8;
+  white-space: nowrap;
+  animation: blink 0.75s step-end infinite;
+}
+</style>
 
 ---
 
