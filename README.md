@@ -23,6 +23,7 @@
 
 * **[Crédito Inclusivo](https://github.com/Kurumin-DSM1-2026/dsm-api-1semestre-2026)** — Projeto integrado (API) do 1º semestre da FATEC SJC (Equipe Kurumin). Painel interativo em Python e Flask para análise de dados públicos de crédito e inadimplência (Banco Central e IBGE).
 * **[Pace Run Academy](https://gabe435.github.io/Pace-Run-Academy/)** — Site institucional responsivo desenvolvido para assessoria de corrida com HTML5, CSS3 e Bootstrap 5.
+* **[Portfolio](https://gabe435.github.io/portfolio/)** — Site do meu portfolio profissional desenvolvido com HTML5, CSS3 e Bootstrap 5.
 
 ---
 
