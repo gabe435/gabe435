@@ -29,10 +29,7 @@
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do gabe435" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
-</p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gabe435)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
