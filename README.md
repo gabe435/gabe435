@@ -26,12 +26,13 @@
 
 ---
 
-### Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabe435&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe435&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
+### 📊 Minhas Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estatísticas do gabe435" height="150" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
